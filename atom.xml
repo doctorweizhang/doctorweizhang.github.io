@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://doctorweizhang.github.io</id>
     <title>张 巍</title>
-    <updated>2019-05-26T18:54:45.962Z</updated>
+    <updated>2019-05-26T18:56:14.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://doctorweizhang.github.io"/>
     <link rel="self" href="https://doctorweizhang.github.io/atom.xml"/>
@@ -11,14 +11,10 @@
     <icon>https://doctorweizhang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 张 巍</rights>
     <entry>
-        <title type="html"><![CDATA[ceshi]]></title>
-        <id>https://doctorweizhang.github.io/post/123</id>
-        <link href="https://doctorweizhang.github.io/post/123">
+        <title type="html"><![CDATA[22222]]></title>
+        <id>https://doctorweizhang.github.io/post/22222</id>
+        <link href="https://doctorweizhang.github.io/post/22222">
         </link>
-        <updated>2019-05-23T06:40:55.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href=""></a></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><a href=""></a></p>
-]]></content>
+        <updated>2019-05-26T06:55:56.000Z</updated>
     </entry>
 </feed>
