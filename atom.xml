@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://doctorweizhang.github.io</id>
     <title>张 巍</title>
-    <updated>2019-05-26T18:22:23.181Z</updated>
+    <updated>2019-05-26T18:54:45.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://doctorweizhang.github.io"/>
     <link rel="self" href="https://doctorweizhang.github.io/atom.xml"/>
@@ -11,12 +11,14 @@
     <icon>https://doctorweizhang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 张 巍</rights>
     <entry>
-        <title type="html"><![CDATA[CV]]></title>
-        <id>https://doctorweizhang.github.io/post/cv</id>
-        <link href="https://doctorweizhang.github.io/post/cv">
+        <title type="html"><![CDATA[ceshi]]></title>
+        <id>https://doctorweizhang.github.io/post/123</id>
+        <link href="https://doctorweizhang.github.io/post/123">
         </link>
-        <updated>2019-05-26T05:42:57.000Z</updated>
-        <content type="html"><![CDATA[<p>张巍，男，上海市第六人民医院东院骨科，主治医师，讲师，毕业于上海交通大学医学院，现任AOTrauma国际内固定学会委员，美国骨科足踝外科协会（AOFAS）国际委员，AO国际教育委员会翻译团成员，膝关节创伤研究小组（KTSG）成员，骨盆创伤急救小组成员，中国抗癌协会会员。2015年获AO奖学金作为国际AO Fellow公派赴美国明尼苏达州Regions医院进修访问。2018年获得公派留学资助计划赴美国约翰霍普金斯大学与杜克大学留学一年学习足踝外科，时任杜克大学中国医学学者协会副会长。曾被邀请于第一届AOTK研讨会上发言，多次在国内骨科大会上发言，多次担任国内与国际学术会议同声翻译。师从于世界著名的创伤骨科专家罗从风教授、Peter Cole教授与足踝外科专家James Nunley教授、Mark Easley教授、James DeOrio教授、Samuel Adams教授和Lew Schon教授。以第一作者或通讯作者在学术杂志上发表论文近三十篇，其中SCI 六篇，累积影响因子超过20分。主编创伤骨科专著《创伤骨科手术治疗与术后康复》一本，持有国家发明专利1项。参与编著多本著作：《创伤骨科教程》、《数字骨科学》、《骨科手术学》、《关节周围骨折》、《膝关节创伤精英论坛病例荟萃第二辑》等，参与翻译多本著作：《骨折治疗的AO原则》、《创伤后畸形截骨治疗》、《Wiesel骨科手术学》、《微创接骨板接骨术MIPO》等。主持上海市局级课题1项，主持上海市健康医学院种子基金1项，主持六院医疗集团科研项目1项，主持六院院级课题1项，参与多项国家自然基金面上项目。科研领域：骨性关节炎衰老软骨细胞的清除、自噬与凋亡的机制研究。专业领域：治疗四肢骨折，膝关节骨性关节炎，膝内翻畸形，复杂胫骨平台骨折，肩胛骨骨折，足踝外科重建与矫形，踝关节置换，骨盆创伤急救，计算机辅助创伤骨科导航手术。</p>
+        <updated>2019-05-23T06:40:55.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href=""></a></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><a href=""></a></p>
 ]]></content>
     </entry>
 </feed>
